@@ -1,8 +1,10 @@
 body {
-        background-color: #cdadff;
+        background-color: #ffb05c;
     }
     h1 {
-        color: limegreen;
+        color: #884600;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bolder;
     }
     ul {
         list-style-type: square;
@@ -13,9 +15,11 @@ body {
     
     }
     a{ 
-        color: blue;
+        color: #884600;
+        font-family: 'Courier New', Courier, monospace;
         text-decoration: none;  
+        font-size: 20px;
     }
     a:hover {
-        text-decoration: underline;
+        text-decoration: none;
     }
