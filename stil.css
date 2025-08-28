@@ -9,11 +9,6 @@ body {
     ul {
         list-style-type: square;
     }
-    img {
-        width: 200px;  
-        margin: 10px;
-    
-    }
     p {
         font-size: 20px;
         font-family: 'Courier New', Courier, monospace;
